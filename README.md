@@ -68,13 +68,13 @@ https://vuejs.org/guide/essentials/application.html
 
 https://vuejs.org/tutorial/#step-1
 
-- [ ] Step 01 - 05 (10 / 07 / 2023)
-- [ ] Step 06 - 10 (12 / 07 / 2023)
+- [x] Step 01 - 05 (10 / 07 / 2023)
+- [x] Step 06 - 10 (12 / 07 / 2023)
 - [ ] Step 11 - 15 (14 / 07 / 2023)
 
 # VueProgress
 
-## Lesson 1-5
+## Lesson 1-6
 - [x] install requirements
 - [x] setup project
 - [x] vue is nothing else but proxy objects and xml to dom
@@ -98,8 +98,12 @@ https://vuejs.org/tutorial/#step-1
 - [x] $children
 - [x] $refs
 - [x] $emit
+- [x] computed, ref (ref == reference (proxy), computed == proxy with watchlist of other proxy)
+- [x] watches (... its literally a watchlist.. i dont get why i need a framework for this)
+- [x] onMounted, onUpdated(), onUnmounted(), onBeforeMount() ref (manual global references) thats interesting
+- [x] Lifecycle https://vuejs.org/api/composition-api-lifecycle.html#onserverprefetch
 
-__
+___
 
 # TS Journal until (19 / 07 / 2023)
 
