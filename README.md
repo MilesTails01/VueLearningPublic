@@ -1,4 +1,4 @@
-# LearnJournal A
+# VueLearnJournal A
 
 ## Lesson 1: Vue.js Introduction (05 / 07 / 2023)
 - Introduction to Vue.js
@@ -55,7 +55,7 @@
 - Deploying to platforms like Netlify or Vercel
 
 
-# LearnJournal B
+# VueLearnJournal B
 
 https://vuejs.org/guide/essentials/application.html
 
@@ -64,7 +64,7 @@ https://vuejs.org/guide/essentials/application.html
 - [ ] Reusability (13 / 07 / 2023)
 - [ ] Best Practices (14 / 07 / 2023)
 
-# LearnJournal C
+# VueLearnJournal C
 
 https://vuejs.org/tutorial/#step-1
 
@@ -72,8 +72,7 @@ https://vuejs.org/tutorial/#step-1
 - [ ] Step 06 - 10 (12 / 07 / 2023)
 - [ ] Step 11 - 15 (14 / 07 / 2023)
 
-
-# Progress
+# VueProgress
 
 ## Lesson 1-5
 - [x] install requirements
@@ -99,3 +98,17 @@ https://vuejs.org/tutorial/#step-1
 - [x] $children
 - [x] $refs
 - [x] $emit
+
+__
+
+# TS Journal until (19 / 07 / 2023)
+
+- [x] Basic Types
+- [ ] Advanced Types
+- [ ] Interfaces
+- [x] Classes and Inheritence
+- [ ] Generics
+- [x] Decorators
+- [ ] Namespaces
+- [ ] Typescript configs
+- [x] Integration (webpack, ts compiler)
