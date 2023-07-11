@@ -70,11 +70,10 @@ https://vuejs.org/tutorial/#step-1
 
 - [x] Step 01 - 05 (10 / 07 / 2023)
 - [x] Step 06 - 10 (12 / 07 / 2023)
-- [ ] Step 11 - 15 (14 / 07 / 2023)
+- [x] Step 11 - 15 (14 / 07 / 2023)
 
 # VueProgress
 
-## Lesson 1-6
 - [x] install requirements
 - [x] setup project
 - [x] vue is nothing else but proxy objects and xml to dom
@@ -93,15 +92,18 @@ https://vuejs.org/tutorial/#step-1
 - [x] $ is an convention for proper vue functions (part of every proxy object)
 - [x] $el
 - [x] $data
-- [x] $props
+- [x] $props, defineProps
 - [x] $parent
 - [x] $children
 - [x] $refs
-- [x] $emit
+- [x] $emit, defineEmits
 - [x] computed, ref (ref == reference (proxy), computed == proxy with watchlist of other proxy)
 - [x] watches (... its literally a watchlist.. i dont get why i need a framework for this)
 - [x] onMounted, onUpdated(), onUnmounted(), onBeforeMount() ref (manual global references) thats interesting
 - [x] Lifecycle https://vuejs.org/api/composition-api-lifecycle.html#onserverprefetch
+- [x] ChildComponents
+- [x] slot
+- [x] app.config.globalProperties
 
 ___
 
