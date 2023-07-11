@@ -59,7 +59,7 @@
 
 https://vuejs.org/guide/essentials/application.html
 
-- [ ] Essentials (05 / 07 / 2023) - (11 / 07 / 2023)
+- [x] Essentials (05 / 07 / 2023) - (11 / 07 / 2023)
 - [ ] Components In-Depth (12 / 07 / 2023)
 - [ ] Reusability (13 / 07 / 2023)
 - [ ] Best Practices (14 / 07 / 2023)
@@ -71,6 +71,14 @@ https://vuejs.org/tutorial/#step-1
 - [x] Step 01 - 05 (10 / 07 / 2023)
 - [x] Step 06 - 10 (12 / 07 / 2023)
 - [x] Step 11 - 15 (14 / 07 / 2023)
+
+# VueLearnJournal D
+
+https://vuejs.org/examples/#hello-world
+
+- [x] Basic
+- [x] Practical
+- [x] 7 GUIs
 
 # VueProgress
 
